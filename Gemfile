@@ -67,3 +67,9 @@ gem 'refile', require: 'refile/rails', github: 'manfe/refile'
 gem 'refile-mini_magick'
 gem 'jquery-rails'
 gem 'bootstrap-sass', '~> 3.4.1'
+gem 'dotenv-rails'
+gem 'jp_prefecture'
+
+
+
+
